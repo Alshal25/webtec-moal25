@@ -5,14 +5,15 @@ const navLinks = document.getElementById("nav-links")
 
 if (toggle && navLinks)
 {
-    toggle.addEventListener("click", ()=>{
+    toggle.addEventListener("click", () => {
         navLinks.classList.toggle("show")
-        //console.log("gg")
+        toggle.classList.toggle("active") 
     })
     window.addEventListener("resize", () => {
         if (window.innerWidth > 750) {
         navLinks.classList.remove("show")
-        //console.log("off")
+        toggle.classList.remove("active") 
+        //console.log("Menu closed - screen size changed to desktop")
         }
     })
 }
