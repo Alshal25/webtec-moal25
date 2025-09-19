@@ -4,6 +4,8 @@
 
 ## Kmom03
 
+![GameHub Screenshot](img/gamehub-screenshot.png)
+
 🎮 För min one-page webbplats valde jag temat GameHub, en gaming-community webbplats. Gaming är något jag har stor passion för, så det kändes naturligt att bygga en sida kring något jag verkligen brinner för. Webbplatsen handlar om att samla gamers, erbjuda recensioner, guider och skapa en community för spelare. När det kommer till färgpaletten använder jag en lila/purple tema med #6b46c1 som huvudfärg i headern, och sedan olika nyanser av lila genom hela sidan - från ljusa lila bakgrunder till mörkare lila för footern. Detta skapar en harmonisk färgskala som känns sammanhållen.
 🖼️ För att hitta bilder och material använde jag mig av Xbox Game Pass, som jag anpassade till gaming-temat. Texten skrev jag själv och fokuserade på innehåll som kändes relevant för en gaming-webbplats, som information om spelgenrer, community-funktioner och gaming-zoner. Min huvudsakliga inspiration kom från referenswebbplatsen som visades, där jag kunde se hur en professionell one-page layout fungerar med hero-image, tvåkolumns-innehåll och kortsektioner.
 
