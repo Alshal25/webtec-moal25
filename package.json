@@ -1,0 +1,12 @@
+{
+  "name": "webb-moal25",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint kmom01/public/js/hello.js kmom03/public/js/TP.js",
+    "start:kmom01": "cd kmom01/public && npx http-server -p 8080",
+    "start:kmom03": "cd kmom03/public && npx http-server -p 8080"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1"
+  }
+}
