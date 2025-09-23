@@ -31,6 +31,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Debug - List directory structure
+        run: |
+          echo "Current directory:"
+          pwd
+          echo "Directory contents:"
+          ls -la
+          echo "kmom03 directory:"
+          ls -la kmom03/
+          echo "kmom03/public directory:"
+          ls -la kmom03/public/
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
