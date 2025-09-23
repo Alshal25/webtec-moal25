@@ -29,6 +29,8 @@ jobs:
           mkdir -p _site
           cp -r kmom03/public/* _site/
           
+          mv _site/onepage.html _site/index.html
+          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
